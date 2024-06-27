@@ -1,2 +1,1 @@
-# University-of-Karabuk-Programming-Languages-Lab-Questions
-University-of-Karabuk-Programming-Languages-Lab-Questions
+I will post the answer of the various lab questions from the programming language one and two courses from the University of Karabuk here. If you are accessing this as a student from there, please try to do the lab questions yourself before checking my answers as they are important for your own learning. That being said, check out my answers and compare them if you'd like.
